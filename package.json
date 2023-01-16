@@ -1,0 +1,21 @@
+{
+  "name": "youtube_download",
+  "version": "1.0.0",
+  "description": "YouTube Video Download",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "youtube-videos-uploader": "^2.0.8"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "ISC",
+  "keywords": [
+    "youtube-download",
+    "youtube-video-download",
+    "nodejskodlayicisi"
+  ]
+}
